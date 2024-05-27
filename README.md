@@ -4,7 +4,7 @@
 This project aims to analyze the churn rate of a telecom company, Orange S.A., and identify the factors that contribute to customer churn. The dataset used in this analysis is the Orange Telecom's Churn Dataset, which includes cleaned customer activity data and a churn label indicating whether a customer cancelled their subscription.
 
 ## Problem Statement  
-The problem addressed in this project is the customer churn rate in Orange Telecom. Customer churn refers to the number of customers who discontinue their subscription within a specific period. The objective is to explore and analyze the data to uncover the key factors responsible for customer churn. Based on the findings, recommendations will be provided to enhance customer retention.
+Telecom companies often struggle with customer churn, which refers to the number of customers who leave the company over a given period. In this project, we aimed to analyze the churn rate of a telecom company and identify the factors that contribute to customer churn.
   
 ## Business Objective
 The primary business objective of this project is twofold:
