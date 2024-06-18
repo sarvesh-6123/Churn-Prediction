@@ -9,6 +9,6 @@ Telecom companies often struggle with customer churn, which refers to the number
 ## Business Objective
 The primary business objective of this project is twofold:
 
-> * Identify the key factors contributing to customer churn: By analyzing the customer activity data, we aim to identify patterns and correlations that indicate why customers are cancelling their subscriptions. This understanding will help Orange Telecom take proactive measures to reduce churn. *
+* _Identify the key factors contributing to customer churn: By analyzing the customer activity data, we aim to identify patterns and correlations that indicate why customers are cancelling their subscriptions. This understanding will help Orange Telecom take proactive measures to reduce churn._ 
 
-> * Provide recommendations for customer retention: Based on the analysis results, we will propose actionable recommendations to Orange Telecom for retaining valuable customers. These recommendations may include targeted marketing campaigns, improved customer service, or service enhancements to address identified pain points. *
+* _Provide recommendations for customer retention: Based on the analysis results, we will propose actionable recommendations to Orange Telecom for retaining valuable customers. These recommendations may include targeted marketing campaigns, improved customer service, or service enhancements to address identified pain points._
